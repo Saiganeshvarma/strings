@@ -3,8 +3,7 @@
 // Input: str1 = "Hello", str2 = "World"
 // Output: "HelloWorld"
 
-
-var myStr1 = 'Hello'
-var myStr2 = "World"
-var newStr = `${myStr1} ${myStr2}`
+var myStr1 = "Hello"
+var mystr2 = "World"
+var newStr = `${myStr1} ${mystr2}`
 console.log(newStr);
